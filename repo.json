@@ -1,13 +1,11 @@
 {  
-  "repository":
-  {
+  "repository": {
     "name":"Nepali Gaming",
     "maintainer": "Nepali Gaming",
     "website": "//nepaligaming.weebly.com",
     "description":"Repo.JSON",
     "icon":"https://inocydia.github.io/img/logo1.jpg",
-    "packages":
-     [
+    "packages": [
       {
         "id": "com.airshou.app",
         "name": "Airshou",
