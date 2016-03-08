@@ -9,14 +9,14 @@
     "packages":
      [
       {
-        "id": "com.nepaligaming.app",
-        "name": "NepaliGaming",
-        "version": "1.0",
-        "author": "Nepali Gaming",
-        "description": "NepaliGaming App",
-        "info": "https://www.github.com/NepaliGaming",
-        "link": "http://nepaligaming.weebly.com",
-        "icon": "https://inocydia.github.io/img/inclink.jpg"
+        "id": "com.airshou.app",
+        "name": "Airshou",
+        "version": "25.0",
+        "author": "Shou.TV",
+        "description": "iOS 9+ screen recorder.",
+        "info": "https://shou.tv/airshou",
+        "link": "https://shou.tv/a",
+        "icon": "https://shou.tv/air_shou.png"
       },
     ]
   }
