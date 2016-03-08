@@ -1,0 +1,23 @@
+{  
+  "repository":
+  {
+    "name":"Nepali Gaming",
+    "maintainer": "Nepali Gaming",
+    "website": "//nepaligaming.weebly.com",
+    "description":"Repo.JSON",
+    "icon":"https://inocydia.github.io/img/logo1.jpg",
+    "packages":
+     [
+      {
+        "id": "com.nepaligaming.app",
+        "name": "NepaliGaming",
+        "version": "1.0",
+        "author": "Nepali Gaming",
+        "description": "NepaliGaming App",
+        "info": "https://www.github.com/NepaliGaming",
+        "link": "http://nepaligaming.weebly.com",
+        "icon": "https://inocydia.github.io/img/inclink.jpg"
+      },
+    ]
+  }
+}
